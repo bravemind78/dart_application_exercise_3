@@ -1,5 +1,6 @@
+//****************************Exercise2**********************
+//Write a function that returns the elements in odd positions in a list.
 import 'dart:io';
-
 void main() {
   stdout.write("Enter Long Sentence with at least five words:   ");
   String sentence = stdin.readLineSync()!;
