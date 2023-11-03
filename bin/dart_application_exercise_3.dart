@@ -1,5 +1,7 @@
-//****************************Exercise2**********************
-//Write a function that returns the elements in odd positions in a list.
+//*************************Exercise3****************************
+//Write a program (using functions!) that asks the user for a long string containing multiple words.
+// Print back to the user the same string, except with the words in backwards order.
+
 import 'dart:io';
 void main() {
   stdout.write("Enter Long Sentence with at least five words:   ");
